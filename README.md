@@ -11,10 +11,10 @@ A collection of macros made for Roblox using mostly AutoHotkey.
 - PixelSearch based automation
 
 ## Requirements
-- AutoHotkey v2
+- AutoHotkey
 
 ## Usage
-1. Install AutoHotkey v2
+1. Install AutoHotkey
 2. Download the macro
 3. Run the `.ahk` file
 4. Follow the hotkey instructions inside the script
